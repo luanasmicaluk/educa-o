@@ -19,5 +19,31 @@ p {
     text-align: center;
 }
 
-em strong
-color
+em strong {
+color:#ff0000;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.tipo de educação {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemeducação {
+    width: 50%;
+}
+
